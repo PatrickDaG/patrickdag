@@ -1,4 +1,10 @@
-## Hi there 👋
+## Heyo 👋
+
+I'm Patrick, security researcher and NixOS fan.
+If you've made it here check out my [blog](blog.lel.lol).
+I sometimes even post things on it.
+
+
 
 <!--
 **PatrickDaG/patrickdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
